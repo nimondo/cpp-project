@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576701423 source:e:\cpp\stringarray\main.cpp
+	<iostream>
+	<vector>
+
